@@ -6,12 +6,6 @@ import random
 import re
 import sys
 
-#
-# Complete the 'beautifulBinaryString' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts STRING b as parameter.
-#
 
 def beautifulBinaryString(b):
     b = list(b)
